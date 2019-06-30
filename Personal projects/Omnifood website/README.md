@@ -1,2 +1,2 @@
 #Screenshots
-<img src="Screenshots/section1.jpg>
+![](section1.jpg)
